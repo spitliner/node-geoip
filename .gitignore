@@ -1,6 +1,7 @@
 /node_modules
 /tmp
 npm-debug.log
+package-lock.json
 
 # JetBrains IDE project files
 /.idea/
